@@ -19,5 +19,9 @@ namespace GitTesting.Controllers
 		{
 			return View();
 		}
+		public ActionResult Reload1()
+		{
+			return View();
+		}
 	}
 }
