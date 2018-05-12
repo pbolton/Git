@@ -20,6 +20,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< .merge_file_a28268
 		SolutionGuid = {05505C0D-E70C-4B4E-ACB3-70B2FAA76E21}
+=======
+		SolutionGuid = {795A968A-C1BF-40DD-ABD9-1671018751BC}
+>>>>>>> .merge_file_a17560
 	EndGlobalSection
 EndGlobal
